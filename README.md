@@ -17,7 +17,7 @@ A real-time community safety monitoring platform that helps users stay informed 
 - Vite
 - TailwindCSS
 - MapLibre GL JS
-- AWS Location Services
+- AWS Location Service
 
 ## Getting Started
 
